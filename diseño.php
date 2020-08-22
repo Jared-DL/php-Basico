@@ -10,8 +10,8 @@
         <?php
         include_once('clases.php');
         include_once('funciones.php');
-        include_once('programa.php');
         include_once('variables.php');
+        include_once('programa.php');
         ?>
 
     </body>
